@@ -1,0 +1,12 @@
+NAME ="KUNDAN"
+AGE =40
+CITY = "BIJINEK"
+
+print("MY NAME IS :", NAME)
+print("MY AGE IS :", AGE)
+print("I STAY IN :", CITY)
+
+AGE = AGE + 1
+print("NEXT YEAR I WILL BE :", AGE)
+
+input("Press Enter to exit...")
